@@ -63,6 +63,7 @@ const Wrap = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 100px;
   margin-bottom: 10px;
 `;
 
